@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1684854525 source:c:\users\jcain\downloads\practica_arbolesbusqueda\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Person.h"
+
+1684855807 c:\users\jcain\downloads\practica_arbolesbusqueda\include\person.h
+	<iostream>
+	<iomanip>
+	<cstring>
+
+1684858058 source:f:\practica_arbolesbusqueda\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Person.h"
+	"arbol.h"
+
+1684857811 f:\practica_arbolesbusqueda\include\person.h
+	<iostream>
+	<iomanip>
+	<cstring>
+
+1684858091 f:\practica_arbolesbusqueda\arbol.h
+
+1684976136 source:c:\users\liuan\downloads\aldama\practica_arbolesbusqueda\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Person.h"
+	"arbol.h"
+
+1684975476 c:\users\liuan\downloads\aldama\practica_arbolesbusqueda\include\person.h
+	<iostream>
+	<iomanip>
+	<cstring>
+
+1684976173 c:\users\liuan\downloads\aldama\practica_arbolesbusqueda\arbol.h
+
+1684987558 source:c:\users\josef\desktop\carpetas\5to semestre\semestruct1\practica_arbolesbusqueda\main.cpp
+	<iostream>
+	<iomanip>
+	<cstring>
+	"Person.h"
+	"arbol.h"
+
+1684975478 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\practica_arbolesbusqueda\include\person.h
+	<iostream>
+	<iomanip>
+	<cstring>
+
+1684976174 c:\users\josef\desktop\carpetas\5to semestre\semestruct1\practica_arbolesbusqueda\arbol.h
+
